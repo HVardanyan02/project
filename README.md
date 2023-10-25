@@ -1,11 +1,15 @@
 # project
-#client
+**client**
+
 npm install
+
 npm start
 
-#server
+**server**
 npm i 
+
 npm run start
 
-#DB
+**DB**
+
 npx sequelize-cli db:migrate
