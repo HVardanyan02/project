@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "form",
+    "password": 123,
+    "database": "form_example",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "form",
+    "password": 123,
+    "database": "form_example",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "form",
+    "password": 123,
+    "database": "form_example",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
